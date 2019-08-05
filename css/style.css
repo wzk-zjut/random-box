@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/* CSS Document */
+#container{
+	width: 800px;
+	height: 600px;
+	background-color: lightgray;
+	position: relative;
+}
